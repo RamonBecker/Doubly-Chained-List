@@ -1,8 +1,7 @@
-# ProejtoGerenciarFilmeSO
-Implementação de sistema de gerenciamento de Filme
+# SystemFilm
 
-Projeto desenvolvido para a disciplina de Estrutura de Dados.
+Projeto de implementação de sistema de gerenciamento de Filme utilizando lista de baixo nível para a disciplina de Sistemas Operacionais para o Instituto Federal de Santa Catarina.
 
-- Objetivos:
-- Manipulação de fila duplamente encadeada;
-- Manipulação de objetos: criação, busca e exclusão.
+* Objetivos:
+* 1 - Manipulação de lista duplamente encadeada;
+* 2 - Manipulação de objetos: criação, busca e exclusão na lista.
